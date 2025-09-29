@@ -6,13 +6,24 @@
       "attribution": "Data provided by https://mentalmars.com; https://www.polygon.com; https://www.ign.com; https://xsmashx88x.github.io",
       "permalink": "https://raw.githubusercontent.com/XxUnkn0wnxX/autoshift-codes/refs/heads/main/shiftcodes.json",
       "generated": {
-        "utc_iso": "2025-09-28T16:15:47.143440Z",
-        "epoch_ms": 1759076147143,
-        "central_local": "Sep 28, 2025, 11:15 AM UTC-05:00"
+        "utc_iso": "2025-09-29T19:24:42.271185Z",
+        "epoch_ms": 1759173882271,
+        "central_local": "Sep 29, 2025, 02:24 PM UTC-05:00"
       },
-      "newcodecount": 485
+      "newcodecount": 1
     },
     "codes": [
+      {
+        "code": "TZXT3-XJXCB-CXBJW-BTTJT-9SK6B",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "Rafa Cosmetic\u201cSavings Savior\u201d",
+        "archived": "2025-09-29 19:24:32.708825+00:00",
+        "expires": "Dec 31, 2030",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
       {
         "code": "JH6BB-6RST3-5FB35-JT3BB-R3WCB",
         "type": "shift",
@@ -262,7 +273,7 @@
         "platform": "universal",
         "reward": "Unknown",
         "archived": "2025-09-28 16:15:37.791807+00:00",
-        "expires": "2025-09-28T16:16:12.254370+00:00",
+        "expires": "Unknown",
         "expired": true,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
