@@ -6,13 +6,24 @@
       "attribution": "Data provided by https://mentalmars.com; https://www.polygon.com; https://www.ign.com; https://xsmashx88x.github.io",
       "permalink": "https://raw.githubusercontent.com/XxUnkn0wnxX/autoshift-codes/main/shiftcodes.json",
       "generated": {
-        "utc_iso": "2025-10-22T18:03:05.541086Z",
-        "epoch_ms": 1761156185541,
-        "central_local": "Oct 22, 2025, 01:03 PM UTC-05:00"
+        "utc_iso": "2025-10-23T20:20:25.113068Z",
+        "epoch_ms": 1761250825113,
+        "central_local": "Oct 23, 2025, 03:20 PM UTC-05:00"
       },
-      "newcodecount": 2
+      "newcodecount": 3
     },
     "codes": [
+      {
+        "code": "3S6BB-ZXT93-KRT3W-BT3T3-JW6TZ",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "Halloween Skins",
+        "archived": "2025-10-23 20:20:14.235616+00:00",
+        "expires": "Dec 31, 2030",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
       {
         "code": "J96JT-BCXKT-C6JJ5-JTJBB-BZTXJ",
         "type": "shift",
@@ -450,6 +461,28 @@
         "reward": "Unknown",
         "archived": "2025-10-10 21:44:23.254709+00:00",
         "expires": "Unknown",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "3S6BB-ZXT93-KRT3W-BT3T3-JW6TZ",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "Gourd Your LoinsPumpkin Head",
+        "archived": "2025-10-23 20:20:14.235616+00:00",
+        "expires": "Dec 31, 2030",
+        "expired": false,
+        "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
+      },
+      {
+        "code": "3S6BB-ZXT93-KRT3W-BT3T3-JW6TZ",
+        "type": "shift",
+        "game": "Borderlands 4",
+        "platform": "universal",
+        "reward": "Hex AppealWeapon Skin",
+        "archived": "2025-10-23 20:20:14.235616+00:00",
+        "expires": "Dec 31, 2030",
         "expired": false,
         "link": "https://mentalmars.com/game-news/borderlands-4-shift-codes/"
       },
